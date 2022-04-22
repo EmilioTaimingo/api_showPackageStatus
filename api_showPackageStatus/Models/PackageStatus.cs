@@ -13,7 +13,7 @@ namespace api_showPackageStatus.Models
 
         public string Name_Addressee { get; set; }
 
-        public string Name_Store { get; set; }
+        public string Name_Warehouse { get; set; }
 
         public string Status { get; set; }
 

@@ -41,7 +41,7 @@ namespace api_showPackageStatus.Context
 
                                     Name_Addressee = dr["Nombre Destinatario"].ToString(),
 
-                                    Name_Store = dr["bod_nombre"].ToString(),
+                                    Name_Warehouse = dr["bod_nombre"].ToString(),
 
                                     Status = dr["epa_descripcion"].ToString()
                                 };
