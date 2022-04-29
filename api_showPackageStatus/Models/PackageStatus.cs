@@ -9,11 +9,11 @@ namespace api_showPackageStatus.Models
     {
         public DateTime Reception_Date { get; set; }
 
-        public string Customer_information { get; set; }
+        public string Customer { get; set; }
 
-        public string Name_Addressee { get; set; }
+        public string Recipient { get; set; }
 
-        public string Name_Warehouse { get; set; }
+        public string Warehouse { get; set; }
 
         public string Status { get; set; }
 

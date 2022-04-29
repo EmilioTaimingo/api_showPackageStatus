@@ -7,6 +7,6 @@ namespace api_showPackageStatus.Models
 {
     public class NumGuia
     {
-        public string Number_Guide { get; set; }
+        public string Guide_Number { get; set; }
     }
 }
